@@ -21,6 +21,7 @@ Para rodar este script, você precisará ter o Python instalado.
 
 ```bash
 python sistema_multas.py
+
 placa = input()
 nome = input()
 velocidade = int(input())
