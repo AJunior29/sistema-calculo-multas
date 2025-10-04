@@ -12,7 +12,7 @@ Este é um script em Python que simula o cálculo de multas de trânsito baseado
 
 ## Como Executar
 
-Para rodar este script, você precisará ter o Python instalado.
+Para rodar este script, você precisará ter o **Python 3** instalado.
 
 1.  Clone este repositório ou baixe o arquivo `sistema_multas.py`.
 2.  Abra o terminal ou prompt de comando.
